@@ -63,5 +63,3 @@ Accedemos con el navegador. Si no aparece la información de php y vemos el cont
 
 ![phpinfo](/Resources/phpinfo.png)
 
-esto es un cambio
-
