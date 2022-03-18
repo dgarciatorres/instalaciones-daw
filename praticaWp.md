@@ -54,7 +54,7 @@ Archivos de configuración de PHP
 
 ### Comprobación
 
-Creamos un fichero `info.php` en el `documentRoot` (`/varls/www/html` ?) con el siguiente contenido:
+Creamos un fichero `info.php` en el `documentRoot` (`/var/www/html` ?) con el siguiente contenido:
 
 ```php
 <?php phpinfo(); ?>
