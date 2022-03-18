@@ -62,3 +62,6 @@ Creamos un fichero `info.php` en el `documentRoot` (`/varls/www/html` ?) con el 
 Accedemos con el navegador. Si no aparece la información de php y vemos el contenido que hemos escrito, es que no se ha instalado correctamente. Tendrías que ver algo similar a esto:
 
 ![phpinfo](/Resources/phpinfo.png)
+
+esto es un cambio
+
