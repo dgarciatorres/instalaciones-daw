@@ -188,31 +188,44 @@ systemctl reload apache2
 
 
 
-![Pantallazo muestra del funcionamiento dentro de la máquina de wp](../practica-DAW-wp/html/resources/instalacion-drupal.png "Pantallazo muestra del funcionamiento dentro de la máquina de wp")
-
-
-
-### Configuración de WP
+### Instalación de Drupal
 
 Para poder llevar a cabo la intalacion es necesaria la siguiente información:
 
-1. Nombre de la base de datos >> **wordpress**
-1. Usuario de la base de datos >> **user**
-1. Contraseña de la base de datos **password**
-1. Servidor de la base de datos **localhost**
-1. Prefijo de la tabla (si quieres ejecutar más de un WordPress en una sola base de datos) **wp_**
+1. En la página inicial del instalador web elegiremos el idioma de la instalación. >> **Español**
 
-A continuación nos pedirá que rellenemos los datos de la página:
+   ![Pantallazo muestra del funcionamiento dentro de la máquina de wp](../practica-DAW-wp/html/resources/instalacion-drupal.png "Pantallazo muestra del funcionamiento dentro de la máquina de wp")
 
-* Título
-* Usuario
-* Contraseña
-* Correo electrónico
+   Nos indica que tenemos que crear un directorio para las traducciones
 
-> Si no trabajamos en local es aconsejable marcar la opción "Pedir a los motores de búsqueda que no indexen este sitio" para que no se indexe la página hasta que terminemos el desarrollo.
+   ```
+   mkdir sites/default/files/
+   cd files
+   mkdir sites/default/files/translations
+   ```
 
-Para poder entrar en la adminisitración de nuestro WP tendremos que incorporar en la barra de direcciones /wp-admin
+   
 
-```text
-dominiodelsitio.com/wp-admin
-```
+1. A continuación seleccionamos el perfil de instalación que necesitamos: >> **Estándar** 
+
+   
+
+1. El siguiente paso es la comprobación de requisitos para la instalación, destacándose aquellos que no se cumplen.
+
+1. Conexión con base de datos:
+
+   
+
+1. Configuración del sitio
+
+
+
+
+
+-----
+
+
+
+user dgarciatorres
+
+Pass 3unnHJu#Cx$t
