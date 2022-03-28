@@ -194,7 +194,9 @@ Para poder llevar a cabo la intalacion es necesaria la siguiente información:
 
 1. En la página inicial del instalador web elegiremos el idioma de la instalación. >> **Español**
 
-   ![Pantallazo muestra del funcionamiento dentro de la máquina de wp](../practica-DAW-wp/html/resources/instalacion-drupal.png "Pantallazo muestra del funcionamiento dentro de la máquina de wp")
+   ![Pantallazo que muestras el proceso de instalación de Drupal](https://github.com/dgarciatorres/instalaciones-daw/blob/main/html/resources/drupal-idioma.png?raw=true "Pantallazo que muestras el proceso de instalación de Drupal")
+
+   
 
    Nos indica que tenemos que crear un directorio para las traducciones
 
@@ -208,15 +210,17 @@ Para poder llevar a cabo la intalacion es necesaria la siguiente información:
 
 1. A continuación seleccionamos el perfil de instalación que necesitamos: >> **Estándar** 
 
-   
-
 1. El siguiente paso es la comprobación de requisitos para la instalación, destacándose aquellos que no se cumplen.
 
 1. Conexión con base de datos:
 
+   ![drupal-instalacion.png](https://github.com/dgarciatorres/instalaciones-daw/blob/main/html/resources/drupal-configuracion-sitio.png?raw=true "Pantallazo que muestras el proceso de instalación de Drupal")
+
    
 
 1. Configuración del sitio
+
+   ![drupal-instalacion.png](https://github.com/dgarciatorres/instalaciones-daw/blob/main/html/resources/drupal-instalacion.png?raw=true "Pantallazo que muestras el proceso de instalación de Drupal")
 
 
 
